@@ -21,6 +21,6 @@
   "homepage": "https://github.com/datalad-datasets/ohbm2020-posters-thumbnails#readme",
   "dependencies": {
     "async": "^3.2.0",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
